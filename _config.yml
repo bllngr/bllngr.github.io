@@ -1,1 +1,28 @@
-theme: jekyll-theme-minimal
+# Your Name or Company
+title: Julius Bullinger
+
+# Description of your website. This is used for social sharing.
+description: Description of your website. This is used for social sharing.
+
+# A brief blurb about yourself
+content: A brief blurb about yourself
+
+# Add your social links
+social:
+  - platform: github
+    url: https://github.com/bllngr
+
+# General settings
+url: http://gh.blln.gr
+baseurl: "/"
+markdown: kramdown
+#sharing_image: share.jpg
+#google_analytics: "UA-58263416-1"
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
